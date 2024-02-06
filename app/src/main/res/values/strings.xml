@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">WartaKota Wae</string>
+    <string name="description_app">Wkw - WartaKota Wae</string>
+    <string name="email">Email</string>
+    <string name="password">Kata sandi</string>
+    <string name="sign_in">Masuk</string>
+    <string name="sign_up">Daftar</string>
+    <string name="signin_success">Login berhasil! Selamat datang di Wkw Apps.</string>
+    <string name="signin_failed">Login gagal! Email atau katasandi salah.</string>
+    <string name="signup_success">Daftar akun berhasil! Silahkan masukkan ulang katasandi.</string>
+    <string name="signup_failed">Daftar akun gagal! Pastikan tidak ada kesalahan dan akun belum terdaftar.</string>
+    <string name="hello">Halo</string>
+    <string name="search">Masukkan katakunci...</string>
+    <string name="source">Sumber : </string>
+    <string name="date">Tanggal : </string>
+    <string name="description">Deskripsi</string>
+    <string name="more">Selengkapnya</string>
+    <string name="share">Bagikan</string>
+    <string name="country">id</string>
+    <string name="api_key">5c4d3a9197e846d8b061779d22c4d2b2</string>
+    <string name="category1">Umum</string>
+    <string name="category2">Bisnis</string>
+    <string name="category3">Hiburan</string>
+    <string name="category4">Kesehatan</string>
+    <string name="category5">Pengetahuan</string>
+    <string name="category6">Olahraga</string>
+    <string name="category7">Teknologi</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wkw Apps</string>
+    <string name="description_app">Wkw - Newspaper</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="signin_success">Sign In success! Welcome to Wkw Apps.</string>
+    <string name="signin_failed">SIgn In failed! Invalid email or password.</string>
+    <string name="signup_success">Sign Up success! Please re-enter password.</string>
+    <string name="signup_failed">Sign Up failed! Make sure there are no errors and the account has not been registered.</string>
+    <string name="hello">Hello</string>
+    <string name="search">Enter keywords...</string>
+    <string name="source">Source : </string>
+    <string name="date">Date : </string>
+    <string name="description">Description</string>
+    <string name="more">Read More</string>
+    <string name="share">Share</string>
+    <string name="country">us</string>
+    <string name="api_key">5c4d3a9197e846d8b061779d22c4d2b2</string>
+    <string name="category1">General</string>
+    <string name="category2">Business</string>
+    <string name="category3">Entertainment</string>
+    <string name="category4">Healthy</string>
+    <string name="category5">Science</string>
+    <string name="category6">Sports</string>
+    <string name="category7">Technology</string>
+</resources>
